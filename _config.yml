@@ -69,7 +69,6 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  github: true
 #  email: "mooaz09@gmail.com"
   github: epicmanmoo
 #  reddit: yourname
