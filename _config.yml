@@ -87,6 +87,8 @@ social-network-links:
 share-links-active:
   google: false
   linkedin: true
+  email: true
+  github: true
   stackoverflow: true
 
 # How to display the link to the website in the footer
