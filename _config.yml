@@ -69,12 +69,12 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: mooaz09@gmail.com
+  email: "mooaz09@gmail.com"
   github: epicmanmoo
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  xing: yourname
-   stackoverflow: 7089776/moocow
+   stackoverflow: "7089776/moocow"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
@@ -85,12 +85,6 @@ social-network-links:
 #  yelp: yourname
 
 # Select which share links to show in posts
-share-links-active:
-  google: false
-  linkedin: true
-  github: true
-  email: true
-  stackoverflow: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
