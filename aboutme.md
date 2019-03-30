@@ -5,6 +5,6 @@ subtitle: About me
 ---
 
 
-### my history
+### Life
 
 description
