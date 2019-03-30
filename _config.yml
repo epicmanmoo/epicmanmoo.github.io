@@ -69,10 +69,9 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   email: "mooaz09@gmail.com"
-  github: epicmanmoo
+  github: "epicmanmoo"
 #  reddit: yourname
 #  google-plus: +DeanAttali
-   linkedin: daattali
 #  xing: yourname
    stackoverflow: "7089776/moocow"
 #  snapchat: deanat78
