@@ -1,4 +1,3 @@
-<main>
 ---
 layout: page
 title: About me
@@ -6,11 +5,10 @@ subtitle: ಠ_ಠ
 use-site-title: true
 ---
 
-In progress, come back later
-</main>
-
-<header>
+<head>
 
 <link rel="shortcut icon" type="image/x-icon" href="img/3332408_0.jpg">
 
-</header>
+</head>
+
+In progress, come back later
