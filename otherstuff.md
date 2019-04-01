@@ -4,7 +4,6 @@ title: Stuff
 subtitle: (╯°□°）╯︵ ┻━┻
 ---
 
-
 ### Stuff
 
 Stuff
