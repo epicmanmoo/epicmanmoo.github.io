@@ -1,11 +1,6 @@
-<!DOCTYPE html>
-<html>
-
 <head>
 <link rel="shortcut icon" href="https://developers.google.com/_static/60f2f9b772/images/favicon.png">
 </head>
-
-<span style="display:block" class="note">
 
 ---
 layout: page
@@ -17,6 +12,3 @@ use-site-title: true
   IDK
 ## Stuff
   Stuff
-
-</span>
-</html>
