@@ -1,13 +1,10 @@
-<head>
-<link rel="shortcut icon" href="https://developers.google.com/_static/60f2f9b772/images/favicon.png">
-</head>
-
 ---
 layout: page
 title: About me
 subtitle: ಠ_ಠ
 use-site-title: true
 ---
+
 ## Who am I?
   IDK
 ## Stuff
