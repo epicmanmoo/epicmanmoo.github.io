@@ -5,10 +5,4 @@ subtitle: ಠ_ಠ
 use-site-title: true
 ---
 
-<head>
-
-<link rel="shortcut icon" type="image/x-icon" href="img/3332408_0.jpg">
-
-</head>
-
 In progress, come back later
