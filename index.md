@@ -6,8 +6,6 @@ use-site-title: true
 ---
 ## There's not much here right now, so come back later?
 
-:stuck_out_tongue:
-
 ## Who am I?
   Hi, my name is Mooaz Nasir. People usually pronounce my name in different ways
   but the correct way to say it is "Maaz". It's hard to even describe because there
