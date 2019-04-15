@@ -8,7 +8,7 @@ use-site-title: true
 
 ## Who am I?
   Hi! Welcome to this website that I kinda made? 😛 My name is Mooaz Nasir.
-  People usually pronounce my name in different ways but the correct way to say it is "Maaz".
+  People usually pronounce my first name in different ways but the correct way to say it is "Maaz".
   It's hard to even describe because there
   are no syllables in my first name. However, you've probably heard of moss, the thing
   that grows on trees. Replace the ssssss sounds with z's and you'll be able to pronounce
@@ -18,7 +18,7 @@ use-site-title: true
   that I'm a pretty deep person, as people (mostly friends) have said about me. However,
   everyone is a unique person. Each person has a story behind them, and they are all
   worth hearing! I hope to sort of share my story in this website and introduce
-  reader(s), if there are even any, to who I am.
+  reader(s), if there are even any, to who I am and what I do!.
 
-## Stuff
-  Stuff
+## Who am I? (Continued)
+  Continuing where I left off, I love to 
