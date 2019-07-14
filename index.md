@@ -21,4 +21,4 @@ use-site-title: true
   reader(s), if there are even any, to who I am and what I do!.
 
 ## Who am I? (Continued)
-  Continuing where I left off, (I'll probably update this when I stop procrastinating my procrastination) :/
+  Continuing where I left off, (I'll probably update this when I stop procrastinating my procrastination) :P
