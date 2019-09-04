@@ -32,4 +32,4 @@ use-site-title: true
   to relearn everything on my own. I don't know why anyway, but I did just that. I began
   relearning how programming works and the things you could do with it. Only then I realized
   how broad of a field Software Engineering is and that is mainly the reason I want to pursue it!
-  (I'll be updating later, because I'm going on vacation.) :)
+  (TBC)
