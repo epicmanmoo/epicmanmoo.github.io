@@ -12,4 +12,6 @@ use-site-title: true
 
 ## Myself:
 
-<img align="right" width="600" height="200" src="https://media-exp1.licdn.com/dms/image/C5603AQEoDSv5k1h9bw/profile-displayphoto-shrink_200_200/0?e=1585180800&v=beta&t=ekvHw9twl2RBZqLITnbUQDYN_OJScNJKyVoMHmpXX18">
+<p align= "center">
+<img align="right" width="300" height="400" src="https://media-exp1.licdn.com/dms/image/C5603AQEoDSv5k1h9bw/profile-displayphoto-shrink_200_200/0?e=1585180800&v=beta&t=ekvHw9twl2RBZqLITnbUQDYN_OJScNJKyVoMHmpXX18">
+</p>
