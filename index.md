@@ -11,4 +11,5 @@ use-site-title: true
   People usually call me "Mo" or something because it's easier to pronounce.
 
 ## Myself:
-  ![Me](https://media-exp1.licdn.com/dms/image/C5603AQEoDSv5k1h9bw/profile-displayphoto-shrink_200_200/0?e=1585180800&v=beta&t=ekvHw9twl2RBZqLITnbUQDYN_OJScNJKyVoMHmpXX18)
+
+<img align="center" width="600" height="200" src="https://media-exp1.licdn.com/dms/image/C5603AQEoDSv5k1h9bw/profile-displayphoto-shrink_200_200/0?e=1585180800&v=beta&t=ekvHw9twl2RBZqLITnbUQDYN_OJScNJKyVoMHmpXX18">
