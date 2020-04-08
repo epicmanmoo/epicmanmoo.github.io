@@ -10,9 +10,9 @@ use-site-title: true
   Hi! Welcome to my website. My name is Mooaz Nasir.
   People usually call me "Mo" or something because it's easier to pronounce.
 
-<p style="text-align: center">
+<p>
 
-<h1> Myself </h1>
+<center><h1> Myself </h1></center>
 
 </p>
 
