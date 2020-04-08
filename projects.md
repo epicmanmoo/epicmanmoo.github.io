@@ -4,6 +4,4 @@ title: Projects
 subtitle: (╯°□°）╯︵ ┻━┻
 ---
 
-# Test
-
-test
+# Projects

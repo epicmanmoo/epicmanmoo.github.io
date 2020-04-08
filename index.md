@@ -4,7 +4,7 @@ title: About me
 subtitle: ಠ_ಠ
 use-site-title: true
 ---
-## There's not much here right now, so come back later...
+## There's not much here right now, I'm lazy.
 
 ## Who am I?
   Hi! Welcome to my website. My name is Mooaz Nasir.
@@ -12,10 +12,10 @@ use-site-title: true
 
 <p style="text-align: center">
 
-## Myself:
+<h1> Myself </h1>
 
 </p>
 
 <p align= "center">
-<img width="400" height="400" src="https://media-exp1.licdn.com/dms/image/C5603AQEoDSv5k1h9bw/profile-displayphoto-shrink_200_200/0?e=1585180800&v=beta&t=ekvHw9twl2RBZqLITnbUQDYN_OJScNJKyVoMHmpXX18">
+<img width="400" height="400" src="me.jpg">
 </p>
