@@ -4,7 +4,6 @@ title: About me
 subtitle: Home
 use-site-title: true
 ---
-## There's not much here right now...
 
 ## Who am I?
   Hi! Welcome to my website. My name is Mooaz Nasir.

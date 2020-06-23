@@ -1,2 +1,2 @@
 # Contains my website
-  > In progress
+# Forked from [here!](https://github.com/daattali/beautiful-jekyll#readme)
