@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: ಠ_ಠ
+subtitle: Home
 use-site-title: true
 ---
-## There's not much here right now, I'm lazy.
+## There's not much here right now...
 
 ## Who am I?
   Hi! Welcome to my website. My name is Mooaz Nasir.
@@ -19,3 +19,7 @@ use-site-title: true
 <p align= "center">
 <img width="400" height="400" src="me.jpg">
 </p>
+
+  Check out the 'Projects' tab for more info on some stuff that I've made. If you want
+  to learn more about me, check out the 'Other Stuff' tab. You can find all linked
+  social media below!

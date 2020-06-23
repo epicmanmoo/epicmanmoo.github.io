@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-subtitle: (╯°□°）╯︵ ┻━┻
+subtitle: Stuff I've made
 ---
 
 # Projects

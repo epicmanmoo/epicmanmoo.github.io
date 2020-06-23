@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stuff
-subtitle: (╯°□°）╯︵ ┻━┻
+subtitle: Things About Me
 ---
 
 # About Me
